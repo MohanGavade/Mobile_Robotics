@@ -1,11 +1,16 @@
-# Mobile_Robotics
-Autonomous_Mobile_Robot 
+## Autonomous Mobile Robot for Grocery Delivery 🤖🛒
 
-Mobile Robot: To deliver grocerry from Rewe to Customer 
+This project focuses on developing an **Autonomous Mobile Robot** for grocery delivery from **Rewe** to customers. The robot performs essential tasks such as object detection, obstacle avoidance, object tracking, path planning, and SLAM (Simultaneous Localization and Mapping) to navigate dynamic environments.
 
-Task: Object detection and avoidance, Object Tracking, Motion and Path Planning, simultaneous localization and mapping
+### Key Features
+- **Object Detection & Avoidance**: Recognizes and avoids obstacles for safe navigation.
+- **Object Tracking**: Identifies and follows key objects in the environment.
+- **Path Planning & Motion Control**: Calculates optimal paths for efficient delivery.
+- **SLAM**: Maps the environment while localizing itself in real time.
 
-Softwares and libraries: Python, PyTorch, OpenCV, ROS, GIT Hub, Matlab and Simulink
+### Tools & Technologies
+- **Software**: Python, PyTorch, OpenCV, ROS, MATLAB, and Simulink.
+- **Hardware**: NVIDIA Jetson Nano, PID Controller, Sonar Sensor, IMU, GNSS, and Intel RealSense Depth Camera.
 
-Components and sensors: NVIDIA Jetson nano kit, PID Controller, Sonar Sensor, IMU, GNSS, Intel RealSense depth camera
-
+### Future Directions
+Plans include enhanced obstacle detection, refined localization techniques, and expanded object tracking capabilities for real-world interactions.
